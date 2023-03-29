@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-app-bulls-cows/static/css/main.86680c96.css",
+    "main.js": "/my-app-bulls-cows/static/js/main.f01c6c86.js",
+    "index.html": "/my-app-bulls-cows/index.html",
+    "main.86680c96.css.map": "/my-app-bulls-cows/static/css/main.86680c96.css.map",
+    "main.f01c6c86.js.map": "/my-app-bulls-cows/static/js/main.f01c6c86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86680c96.css",
+    "static/js/main.f01c6c86.js"
+  ]
+}

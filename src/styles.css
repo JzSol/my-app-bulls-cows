@@ -1,0 +1,46 @@
+.container{
+    display: flex;
+justify-content: center;
+}
+
+.input-container{
+    max-width: 200px;
+
+    /* background-color: ; */
+}
+
+.result{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.heads{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 21%, rgba(83,79,65,1) 91%, rgba(253,187,45,1) 98%);
+
+    color: aliceblue;
+    font-size: 24px;
+
+}
+
+.container-top{
+width: 100%;
+}
+
+.rule{
+margin-bottom: 10px;
+}
+
+
+
+.page {
+    height: 100%;
+  }
+  
+  .pageback {
+    min-height: 100%;
+    background-color: #8BC6EC;
+    background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+  }
